@@ -1,8 +1,8 @@
 {
+  "homepage": "https://jhoelzer.github.io/todos-part-1/todos",
   "name": "todos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jhoelzer.github.io/todos-part-1/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
