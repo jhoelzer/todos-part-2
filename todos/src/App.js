@@ -114,7 +114,7 @@ class App extends Component {
     return (
         <TodoList/>
     );
-  }
-}
+  };
+};
 
 export default App;
