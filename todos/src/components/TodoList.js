@@ -15,7 +15,7 @@ class TodoList extends Component {
         });
 
         this.setState({ todos: newTodos });
-    };
+    }; 
 
     addTodo = event => {
         const { todos } = this.state;
